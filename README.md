@@ -3,9 +3,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bernardo+Brotelli;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=srbernardo&show_icons=true&count_private=true&hide_border=true&title_color=4b0082&icon_color=4b0082&text_color=c9d1d9&bg_color=0d1117" alt="Bernardo Brotelli github stats" />    
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave"/>
+
+<picture>
+
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=srbernardo&show_icons=true&count_private=true&hide_border=true&theme=synthwave"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=srbernardo&show_icons=true&count_private=true&hide_border=true&theme=synthwave"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=srbernardo&show_icons=true&count_private=true&hide_border=true&theme=synthwave" />
+</picture>
 </div>
+
+<div align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbernardo&layout=compact&theme=synthwave)
+  
+</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=srbernardo&bg_color=2b2727&color=e24286&line=9e4c98&point=d9208f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -29,3 +47,10 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{srbernardo}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=footer"/>
